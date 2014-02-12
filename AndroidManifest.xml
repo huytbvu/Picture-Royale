@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.game.tristar.activity"
+    android:installLocation="preferExternal"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="false"
+        android:resizeable="true"
+        android:smallScreens="false"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.game.tristar.activity.PhotoActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.MenuActivity"
+            android:label="@string/title_activity_menu"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.GameoverActivity"
+            android:label="@string/title_activity_gameover" >
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.FlipActivity"
+            android:label="@string/title_activity_flip" >
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.BossActivity"
+            android:label="@string/title_activity_boss" >
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.PartActivity"
+            android:label="@string/title_activity_part" >
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.VictoryActivity"
+            android:label="@string/title_activity_victory" >
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.FinaleActivity"
+            android:label="@string/title_activity_finale" >
+        </activity>
+        <activity
+            android:name="com.game.tristar.activity.InstuctionActivity"
+            android:label="@string/title_activity_instuction" >
+        </activity>
+    </application>
+
+</manifest>

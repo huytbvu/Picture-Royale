@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Picture Royale</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_gameover">Game Over</string>
+    <string name="title_activity_flip">FlipActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_wonder">WonderActivity</string>
+    <string name="title_activity_boss">BossActivity</string>
+    <string name="title_activity_part">PartActivity</string>
+    <string name="boss_instruction">This is the stage final challenge. Are you ready?</string>
+    <string name="title_activity_victory">VictoryActivity</string>
+    <string name="title_activity_finale">FinaleActivity</string>
+    <string name="title_activity_instuction">InstuctionActivity</string>
+
+</resources>

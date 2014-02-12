@@ -1,0 +1,889 @@
+<PhotoCollection>
+	<Triplets>
+		<Triplet>
+			<ID>a_1</ID>
+			<Location x="0.12" y="0.11" r="0.013">1</Location>
+			<Location x="0.25" y="0.39" r="0.012">2</Location>
+			<Location x="0.84" y="0.45" r="0.014">3</Location>
+			<Location x="0.80" y="0.43" r="0.016">4</Location>
+			<Location x="0.19" y="0.69" r="0.012">5</Location>
+			<Location x="0.41" y="0.70" r="0.021">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_2</ID>
+			<Location x="0.07" y="0.25" r="0.012">1</Location>
+			<Location x="0.10" y="0.37" r="0.014">2</Location>
+			<Location x="0.70" y="0.18" r="0.012">3</Location>
+			<Location x="0.76" y="0.44" r="0.035">4</Location>
+			<Location x="0.12" y="0.92" r="0.012">5</Location>
+			<Location x="0.36" y="0.85" r="0.023">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_3</ID>
+			<Location x="0.25" y="0.05" r="0.02">1</Location>
+			<Location x="0.44" y="0.36" r="0.03">2</Location>
+			<Location x="0.89" y="0.24" r="0.02">3</Location>
+			<Location x="0.62" y="0.46" r="0.012">4</Location>
+			<Location x="0.08" y="0.59" r="0.017">5</Location>
+			<Location x="0.31" y="0.84" r="0.016">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_4</ID>
+			<Location x="0.32" y="0.27" r="0.013">1</Location>
+			<Location x="0.19" y="0.25" r="0.013">2</Location>
+			<Location x="0.51" y="0.43" r="0.012">3</Location>
+			<Location x="0.61" y="0.24" r="0.014">4</Location>
+			<Location x="0.13" y="0.56" r="0.012">5</Location>
+			<Location x="0.30" y="0.85" r="0.012">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_5</ID>
+			<Location x="0.06" y="0.29" r="0.014">1</Location>
+			<Location x="0.22" y="0.18" r="0.018">2</Location>
+			<Location x="0.73" y="0.30" r="0.012">3</Location>
+			<Location x="0.94" y="0.45" r="0.019">4</Location>
+			<Location x="0.36" y="0.86" r="0.012">5</Location>
+			<Location x="0.20" y="0.95" r="0.015">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_6</ID>
+			<Location x="0.32" y="0.32" r="0.015">1</Location>
+			<Location x="0.14" y="0.24" r="0.015">2</Location>
+			<Location x="0.93" y="0.18" r="0.022">3</Location>
+			<Location x="0.72" y="0.43" r="0.012">4</Location>
+			<Location x="0.29" y="0.81" r="0.012">5</Location>
+			<Location x="0.22" y="0.64" r="0.012">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_7</ID>
+			<Location x="0.09" y="0.35" r="0.013">1</Location>
+			<Location x="0.31" y="0.19" r="0.018">2</Location>
+			<Location x="0.64" y="0.48" r="0.023">3</Location>
+			<Location x="0.82" y="0.12" r="0.015">4</Location>
+			<Location x="0.21" y="0.63" r="0.022">5</Location>
+			<Location x="0.42" y="0.80" r="0.018">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_8</ID>
+			<Location x="0.14" y="0.24" r="0.019">1</Location>
+			<Location x="0.34" y="0.40" r="0.017">2</Location>
+			<Location x="0.62" y="0.18" r="0.022">3</Location>
+			<Location x="0.72" y="0.29" r="0.012">4</Location>
+			<Location x="0.46" y="0.54" r="0.027">5</Location>
+			<Location x="0.42" y="0.93" r="0.018">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_9</ID>
+			<Location x="0.28" y="0.06" r="0.025">1</Location>
+			<Location x="0.17" y="0.23" r="0.018">2</Location>
+			<Location x="0.77" y="0.33" r="0.025">3</Location>
+			<Location x="0.54" y="0.29" r="0.023">4</Location>
+			<Location x="0.09" y="0.76" r="0.017">5</Location>
+			<Location x="0.39" y="0.58" r="0.04">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_10</ID>
+			<Location x="0.08" y="0.19" r="0.015">1</Location>
+			<Location x="0.42" y="0.45" r="0.016">2</Location>
+			<Location x="0.91" y="0.17" r="0.015">3</Location>
+			<Location x="0.64" y="0.47" r="0.018">4</Location>
+			<Location x="0.03" y="0.67" r="0.016">5</Location>
+			<Location x="0.33" y="0.78" r="0.016">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_11</ID>
+			<Location x="0.12" y="0.29" r="0.012">1</Location>
+			<Location x="0.24" y="0.07" r="0.013">2</Location>
+			<Location x="0.72" y="0.34" r="0.018">3</Location>
+			<Location x="0.92" y="0.10" r="0.022">4</Location>
+			<Location x="0.14" y="0.92" r="0.012">5</Location>
+			<Location x="0.36" y="0.84" r="0.015">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_12</ID>
+			<Location x="0.21" y="0.32" r="0.012">1</Location>
+			<Location x="0.30" y="0.42" r="0.015">2</Location>
+			<Location x="0.54" y="0.21" r="0.012">3</Location>
+			<Location x="0.73" y="0.34" r="0.022">4</Location>
+			<Location x="0.44" y="0.58" r="0.04">5</Location>
+			<Location x="0.32" y="0.71" r="0.011">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_13</ID>
+			<Location x="0.41" y="0.22" r="0.013">1</Location>
+			<Location x="0.13" y="0.17" r="0.013">2</Location>
+			<Location x="0.80" y="0.11" r="0.016">3</Location>
+			<Location x="0.71" y="0.21" r="0.017">4</Location>
+			<Location x="0.14" y="0.54" r="0.015">5</Location>
+			<Location x="0.08" y="0.74" r="0.015">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_14</ID>
+			<Location x="0.38" y="0.11" r="0.018">1</Location>
+			<Location x="0.36" y="0.36" r="0.026">2</Location>
+			<Location x="0.56" y="0.32" r="0.043">3</Location>
+			<Location x="0.79" y="0.44" r="0.026">4</Location>
+			<Location x="0.16" y="0.86" r="0.017">5</Location>
+			<Location x="0.31" y="0.82" r="0.016">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_15</ID>
+			<Location x="0.18" y="0.18" r="0.013">1</Location>
+			<Location x="0.47" y="0.44" r="0.015">2</Location>
+			<Location x="0.60" y="0.15" r="0.023">3</Location>
+			<Location x="0.68" y="0.38" r="0.019">4</Location>
+			<Location x="0.23" y="0.64" r="0.013">5</Location>
+			<Location x="0.38" y="0.82" r="0.015">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_16</ID>
+			<Location x="0.44" y="0.47" r="0.013">1</Location>
+			<Location x="0.27" y="0.23" r="0.016">2</Location>
+			<Location x="0.88" y="0.27" r="0.023">3</Location>
+			<Location x="0.57" y="0.37" r="0.025">4</Location>
+			<Location x="0.23" y="0.60" r="0.019">5</Location>
+			<Location x="0.37" y="0.64" r="0.016">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_17</ID>
+			<Location x="0.29" y="0.17" r="0.020">1</Location>
+			<Location x="0.40" y="0.36" r="0.020">2</Location>
+			<Location x="0.80" y="0.08" r="0.020">3</Location>
+			<Location x="0.60" y="0.31" r="0.014">4</Location>
+			<Location x="0.18" y="0.70" r="0.019">5</Location>
+			<Location x="0.32" y="0.79" r="0.022">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_18</ID>
+			<Location x="0.09" y="0.38" r="0.013">1</Location>
+			<Location x="0.41" y="0.30" r="0.014">2</Location>
+			<Location x="0.93" y="0.31" r="0.019">3</Location>
+			<Location x="0.66" y="0.22" r="0.025">4</Location>
+			<Location x="0.44" y="0.69" r="0.015">5</Location>
+			<Location x="0.20" y="0.93" r="0.028">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_19</ID>
+			<Location x="0.08" y="0.41" r="0.033">1</Location>
+			<Location x="0.39" y="0.16" r="0.014">2</Location>
+			<Location x="0.66" y="0.12" r="0.035">3</Location>
+			<Location x="0.83" y="0.13" r="0.023">4</Location>
+			<Location x="0.47" y="0.62" r="0.019">5</Location>
+			<Location x="0.18" y="0.80" r="0.016">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_20</ID>
+			<Location x="0.31" y="0.16" r="0.016">1</Location>
+			<Location x="0.29" y="0.32" r="0.015">2</Location>
+			<Location x="0.53" y="0.19" r="0.037">3</Location>
+			<Location x="0.69" y="0.23" r="0.019">4</Location>
+			<Location x="0.47" y="0.78" r="0.034">5</Location>
+			<Location x="0.35" y="0.92" r="0.04">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_21</ID>
+			<Location x="0.22" y="0.15" r="0.023">1</Location>
+			<Location x="0.26" y="0.26" r="0.019">2</Location>
+			<Location x="0.94" y="0.30" r="0.044">3</Location>
+			<Location x="0.65" y="0.13" r="0.015">4</Location>
+			<Location x="0.31" y="0.60" r="0.013">5</Location>
+			<Location x="0.15" y="0.84" r="0.035">6</Location>
+		</Triplet>
+		<Triplet>
+			<ID>a_22</ID>
+			<Location x="0.47" y="0.22" r="0.015">1</Location>
+			<Location x="0.29" y="0.16" r="0.018">2</Location>
+			<Location x="0.58" y="0.37" r="0.018">3</Location>
+			<Location x="0.70" y="0.36" r="0.02">4</Location>
+			<Location x="0.21" y="0.55" r="0.034">5</Location>
+			<Location x="0.42" y="0.84" r="0.014">6</Location>
+		</Triplet>
+	</Triplets>
+	<Symmetries>
+		<Symmetry>
+			<ID>b_1</ID>
+			<Location x="0.21" y="0.40" r="0.013">1</Location>
+			<Location x="0.30" y="0.22" r="0.025">2</Location>
+			<Location x="0.79" y="0.15" r="0.013">3</Location>
+			<Location x="0.82" y="0.35" r="0.023">4</Location>
+			<Location x="0.10" y="0.74" r="0.026">5</Location>
+			<Location x="0.26" y="0.70" r="0.024">6</Location>
+		</Symmetry>
+		<Symmetry>
+			<ID>b_2</ID>
+			<Location x="0.38" y="0.44" r="0.015">1</Location>
+			<Location x="0.42" y="0.09" r="0.031">2</Location>
+			<Location x="0.74" y="0.40" r="0.044">3</Location>
+			<Location x="0.54" y="0.44" r="0.051">4</Location>
+			<Location x="0.25" y="0.77" r="0.031">5</Location>
+			<Location x="0.13" y="0.56" r="0.028">6</Location>
+		</Symmetry>
+		<Symmetry>
+			<ID>b_3</ID>
+			<Location x="0.08" y="0.40" r="0.020">1</Location>
+			<Location x="0.14" y="0.26" r="0.016">2</Location>
+			<Location x="0.76" y="0.32" r="0.025">3</Location>
+			<Location x="0.60" y="0.15" r="0.019">4</Location>
+			<Location x="0.08" y="0.56" r="0.038">5</Location>
+			<Location x="0.36" y="0.54" r="0.020">6</Location>
+		</Symmetry>
+		<Symmetry>
+			<ID>b_4</ID>
+			<Location x="0.26" y="0.09" r="0.020">1</Location>
+			<Location x="0.20" y="0.28" r="0.016">2</Location>
+			<Location x="0.64" y="0.31" r="0.023">3</Location>
+			<Location x="0.83" y="0.30" r="0.021">4</Location>
+			<Location x="0.14" y="0.80" r="0.033">5</Location>
+			<Location x="0.26" y="0.59" r="0.025">6</Location>
+		</Symmetry>
+		<Symmetry>
+			<ID>b_5</ID>
+			<Location x="0.24" y="0.20" r="0.014">1</Location>
+			<Location x="0.38" y="0.47" r="0.013">2</Location>
+			<Location x="0.74" y="0.29" r="0.018">3</Location>
+			<Location x="0.72" y="0.12" r="0.021">4</Location>
+			<Location x="0.10" y="0.66" r="0.013">5</Location>
+			<Location x="0.05" y="0.82" r="0.016">6</Location>
+		</Symmetry>
+		<Symmetry>
+			<ID>b_6</ID>
+			<Location x="0.17" y="0.08" r="0.023">1</Location>
+			<Location x="0.26" y="0.34" r="0.028">2</Location>
+			<Location x="0.87" y="0.29" r="0.027">3</Location>
+			<Location x="0.53" y="0.16" r="0.016">4</Location>
+			<Location x="0.38" y="0.86" r="0.024">5</Location>
+			<Location x="0.46" y="0.59" r="0.016">6</Location>
+		</Symmetry>
+	</Symmetries>
+	<Partitions>
+		<Partition filecode="c_1"></Partition>
+		<Partition filecode="c_2"></Partition>
+		<Partition filecode="c_3"></Partition>
+		<Partition filecode="c_4"></Partition>
+		<Partition filecode="c_5"></Partition>
+		<Partition filecode="c_6"></Partition>
+		<Partition filecode="c_7"></Partition>
+		<Partition filecode="c_8"></Partition>
+		<Partition filecode="c_9"></Partition>
+		<Partition filecode="c_11"></Partition>
+	</Partitions>
+	<Flippings>
+		<Flipping group="9" rule="2" pattern="number">
+			<Part pair="1" file="d_1_1_a">HOST_1</Part>
+			<Part pair="1" file="d_1_1_b">TAIL_1</Part>
+			<Part pair="2" file="d_1_2_a">HOST_2</Part>
+			<Part pair="2" file="d_1_2_b">TAIL_2</Part>
+			<Part pair="3" file="d_1_3_a">HOST_3</Part>
+			<Part pair="3" file="d_1_3_b">TAIL_3</Part>
+			<Part pair="4" file="d_1_4_a">HOST_4</Part>
+			<Part pair="4" file="d_1_4_b">TAIL_4</Part>
+			<Part pair="5" file="d_1_5_a">HOST_5</Part>
+			<Part pair="5" file="d_1_5_b">TAIL_5</Part>
+			<Part pair="6" file="d_1_6_a">HOST_6</Part>
+			<Part pair="6" file="d_1_6_b">TAIL_6</Part>
+			<Part pair="7" file="d_1_7_a">HOST_7</Part>
+			<Part pair="7" file="d_1_7_b">TAIL_7</Part>
+			<Part pair="8" file="d_1_8_a">HOST_8</Part>
+			<Part pair="8" file="d_1_8_b">TAIL_8</Part>
+			<Part pair="9" file="d_1_9_a">HOST_9</Part>
+			<Part pair="9" file="d_1_9_b">TAIL_9</Part>
+		</Flipping>
+		<Flipping group="8" rule="3" pattern="logo">
+			<Part pair="1" file="d_2_1_a">MANU_HAT</Part>
+			<Part pair="1" file="d_2_1_b">MANU_BALL</Part>
+			<Part pair="1" file="d_2_1_c">MANU_POSTER</Part>
+			<Part pair="2" file="d_2_2_a">CHE_HAT</Part>
+			<Part pair="2" file="d_2_2_b">CHE_BALL</Part>
+			<Part pair="2" file="d_2_2_c">CHE_POSTER</Part>
+			<Part pair="3" file="d_2_3_a">BAYM_HAT</Part>
+			<Part pair="3" file="d_2_3_b">BAYM_BALL</Part>
+			<Part pair="3" file="d_2_3_c">BAYM_POSTER</Part>
+			<Part pair="4" file="d_2_4_a">RMD_HAT</Part>
+			<Part pair="4" file="d_2_4_b">RMD_BALL</Part>
+			<Part pair="4" file="d_2_4_c">RMD_POSTER</Part>
+			<Part pair="5" file="d_2_5_a">ACM_HAT</Part>
+			<Part pair="5" file="d_2_5_b">ACM_BALL</Part>
+			<Part pair="5" file="d_2_5_c">ACM_POSTER</Part>
+			<Part pair="6" file="d_2_6_a">BARC_HAT</Part>
+			<Part pair="6" file="d_2_6_b">BARC_BALL</Part>
+			<Part pair="6" file="d_2_6_c">BARC_POSTER</Part>
+			<Part pair="7" file="d_2_7_a">BVB_HAT</Part>
+			<Part pair="7" file="d_2_7_b">BVB_BALL</Part>
+			<Part pair="7" file="d_2_7_c">BVB_POSTER</Part>
+			<Part pair="8" file="d_2_8_a">JUVE_HAT</Part>
+			<Part pair="8" file="d_2_8_b">JUVE_BALL</Part>
+			<Part pair="8" file="d_2_8_c">JUVE_POSTER</Part>
+		</Flipping>
+		<Flipping group="8" rule="3" pattern="color">
+			<Part pair="1" file="d_3_1_a">BLUE_BOY</Part>
+			<Part pair="1" file="d_3_1_b">BLUE_GIRL</Part>
+			<Part pair="1" file="d_3_1_c">BLUE_GEM</Part>
+			<Part pair="2" file="d_3_2_a">GREEN_BOY</Part>
+			<Part pair="2" file="d_3_2_b">GREEN_GIRL</Part>
+			<Part pair="2" file="d_3_2_c">GREEN_GEM</Part>
+			<Part pair="3" file="d_3_3_a">RED_BOY</Part>
+			<Part pair="3" file="d_3_3_b">RED_GIRL</Part>
+			<Part pair="3" file="d_3_3_c">RED_GEM</Part>
+			<Part pair="4" file="d_3_4_a">ORANGE_BOY</Part>
+			<Part pair="4" file="d_3_4_b">ORANGE_GIRL</Part>
+			<Part pair="4" file="d_3_4_c">ORANGE_GEM</Part>
+			<Part pair="5" file="d_3_5_a">YELLOW_BOY</Part>
+			<Part pair="5" file="d_3_5_b">YELLOW_GIRL</Part>
+			<Part pair="5" file="d_3_5_c">YELLOW_GEM</Part>
+			<Part pair="6" file="d_3_6_a">PURPLE_BOY</Part>
+			<Part pair="6" file="d_3_6_b">PURPLE_GIRL</Part>
+			<Part pair="6" file="d_3_6_c">PURPLE_GEM</Part>
+			<Part pair="7" file="d_3_7_a">PINK_BOY</Part>
+			<Part pair="7" file="d_3_7_b">PINK_GIRL</Part>
+			<Part pair="7" file="d_3_7_c">PINK_GEM</Part>
+			<Part pair="8" file="d_3_8_a">BROWN_BOY</Part>
+			<Part pair="8" file="d_3_8_b">BROWN_GIRL</Part>
+			<Part pair="8" file="d_3_8_c">BROWN_GEM</Part>
+		</Flipping>
+		<Flipping group="7" rule="3" pattern="information">
+			<Part pair="1" file="d_4_1_a">GW_PIC</Part>
+			<Part pair="1" file="d_4_1_b">GW_NAME</Part>
+			<Part pair="1" file="d_4_1_c">GW_PLACE</Part>
+			<Part pair="2" file="d_4_2_a">COL_PIC</Part>
+			<Part pair="2" file="d_4_2_b">COL_NAME</Part>
+			<Part pair="2" file="d_4_2_c">COL_PLACE</Part>
+			<Part pair="3" file="d_4_3_a">CR_PIC</Part>
+			<Part pair="3" file="d_4_3_b">CR_NAME</Part>
+			<Part pair="3" file="d_4_3_c">CR_PLACE</Part>
+			<Part pair="4" file="d_4_4_a">MP_PIC</Part>
+			<Part pair="4" file="d_4_4_b">MP_NAME</Part>
+			<Part pair="4" file="d_4_4_c">MP_PLACE</Part>
+			<Part pair="5" file="d_4_5_a">TM_PIC</Part>
+			<Part pair="5" file="d_4_5_b">TM_NAME</Part>
+			<Part pair="5" file="d_4_5_c">TM_PLACE</Part>
+			<Part pair="6" file="d_4_6_a">CI_PIC</Part>
+			<Part pair="6" file="d_4_6_b">CI_NAME</Part>
+			<Part pair="6" file="d_4_6_c">CI_PLACE</Part>
+			<Part pair="7" file="d_4_7_a">PET_PIC</Part>
+			<Part pair="7" file="d_4_7_b">PET_NAME</Part>
+			<Part pair="7" file="d_4_7_c">PET_PLACE</Part>
+		</Flipping>
+	</Flippings>
+	<Bosses>
+		<Boss prefix="e_1">
+			<Question ans="2" title="What is the number on the taxi">
+				<Choice>4567</Choice>
+				<Choice>###7533</Choice>
+				<Choice>6734</Choice>
+				<Choice>1408</Choice>
+			</Question>
+			<Question ans="1" title="The girls are wearing">
+				<Choice>###Skirts</Choice>
+				<Choice>Jeans</Choice>
+				<Choice>Trousers</Choice>
+				<Choice>Dress</Choice>
+			</Question>
+			<Question ans="3" title="How many bikes are there">
+				<Choice>0</Choice>
+				<Choice>1</Choice>
+				<Choice>###2</Choice>
+				<Choice>3</Choice>
+			</Question>
+			<Sub file="e_1_1" part="e_1_1_r">
+				<Question ans="4" title="What color is the building">
+					<Choice>Red</Choice>
+					<Choice>Blue</Choice>
+					<Choice>Green</Choice>
+					<Choice>###Yellow</Choice>
+				</Question>
+				<Question ans="4" title="What shape is the clock">
+					<Choice>Square</Choice>
+					<Choice>Oval</Choice>
+					<Choice>Rectangle</Choice>
+					<Choice>###Circle</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_1_2" part="e_1_2_r">
+				<Question ans="1" title="What are on the table">
+					<Choice>###Bowls and plates</Choice>
+					<Choice>Hot Pot</Choice>
+					<Choice>Fruits</Choice>
+					<Choice>Chicken</Choice>
+				</Question>
+				<Question ans="2" title="How many bikes are there">
+					<Choice>0</Choice>
+					<Choice>###1</Choice>
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_1_3" part="e_1_3_r">
+				<Question ans="2" title="How many ladders are there">
+					<Choice>1</Choice>
+					<Choice>###2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+				<Question ans="4" title="How many rickshaws are there">
+					<Choice>5</Choice>
+					<Choice>7</Choice>
+					<Choice>6</Choice>
+					<Choice>###8</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_1_4" part="e_1_4_r">
+				<Question ans="1" title="Who is walking toward the motorbike">
+					<Choice>###A man</Choice>
+					<Choice>A woman</Choice>
+					<Choice>A boy</Choice>
+					<Choice>A girl</Choice>
+				</Question>
+				<Question ans="3" title="What colors are the circle sign">
+					<Choice>Blue and Black</Choice>
+					<Choice>Red and Green</Choice>
+					<Choice>###Red and White</Choice>
+					<Choice>Yellow and Orange</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_1_5" part="e_1_5_r">
+				<Question ans="2" title="What is the number on the ship">
+					<Choice>101</Choice>
+					<Choice>###808</Choice>
+					<Choice>707</Choice>
+					<Choice>404</Choice>
+				</Question>
+				<Question ans="4" title="What colors are the taxis">
+					<Choice>Red and Yellow</Choice>
+					<Choice>Black and White</Choice>
+					<Choice>Orange and Green</Choice>
+					<Choice>###Blue and White</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_1_6" part="e_1_6_r">
+				<Question ans="4" title="What color is the statue">
+					<Choice>Red</Choice>
+					<Choice>Black</Choice>
+					<Choice>Gold</Choice>
+					<Choice>###White</Choice>
+				</Question>
+				<Question ans="1" title="What is the building">
+					<Choice>###A Church</Choice>
+					<Choice>A Warehouse</Choice>
+					<Choice>A Police Station</Choice>
+					<Choice>A School</Choice>
+				</Question>
+			</Sub>
+		</Boss>
+		<Boss prefix="e_2">
+			<Question ans="2" title="What color is the jacket the left girl is wearing">
+				<Choice>Blue</Choice>
+				<Choice>###White</Choice>
+				<Choice>Black</Choice>
+				<Choice>Red</Choice>
+			</Question>
+			<Question ans="3" title="How many orange buttons are on the red coat">
+				<Choice>3</Choice>
+				<Choice>4</Choice>
+				<Choice>###5</Choice>
+				<Choice>6</Choice>
+			</Question>
+			<Question ans="4" title="Where is the fence">
+				<Choice>top-left</Choice>
+				<Choice>top-right</Choice>
+				<Choice>bottom-left</Choice>
+				<Choice>###bottom-right</Choice>
+			</Question>
+			<Sub file="e_2_1" part="e_2_1_r">
+				<Question ans="4" title="What color is the safety strap">
+					<Choice>Red</Choice>
+					<Choice>Blue</Choice>
+					<Choice>Green</Choice>
+					<Choice>###Yellow</Choice>
+				</Question>
+				<Question ans="4" title="What is sitting in the middle">
+					<Choice>A boy</Choice>
+					<Choice>An old man</Choice>
+					<Choice>No one</Choice>
+					<Choice>###A woman</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_2_2" part="e_2_2_r">
+				<Question ans="1" title="Who has the sunglasses">
+					<Choice>###The girl in the middle</Choice>
+					<Choice>The girl on the left</Choice>
+					<Choice>The girl on the right</Choice>
+					<Choice>The man in the back</Choice>
+				</Question>
+				<Question ans="2" title="What kind of plants are they sitting next to">
+					<Choice>Grass</Choice>
+					<Choice>###Flowers</Choice>
+					<Choice>Trees</Choice>
+					<Choice>Bushes</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_2_3" part="e_2_3_r">
+				<Question ans="1" title="How many performers are wearing pink">
+					<Choice>###1</Choice>
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+				<Question ans="4" title="What kind of animal is performing">
+					<Choice>Shark</Choice>
+					<Choice>Seal</Choice>
+					<Choice>Whale</Choice>
+					<Choice>###Dolphin</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_2_4" part="e_2_4_r">
+				<Question ans="1" title="What color is the long straight slide">
+					<Choice>###Blue</Choice>
+					<Choice>Orange</Choice>
+					<Choice>Yellow</Choice>
+					<Choice>Green</Choice>
+				</Question>
+				<Question ans="3" title="What slide color does not appear">
+					<Choice>Blue slide</Choice>
+					<Choice>Orange Slide</Choice>
+					<Choice>###Red slide</Choice>
+					<Choice>Yellow slide</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_2_5" part="e_2_5_r">
+				<Question ans="2" title="How many tourist trams are there">
+					<Choice>0</Choice>
+					<Choice>###1</Choice>
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+				</Question>
+				<Question ans="2" title="How many police cars are there">
+					<Choice>1</Choice>
+					<Choice>###2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_2_6" part="e_2_6_r">
+				<Question ans="4" title="How many demon decorations are there">
+					<Choice>0</Choice>
+					<Choice>1</Choice>
+					<Choice>2</Choice>
+					<Choice>###3</Choice>
+				</Question>
+				<Question ans="1" title="What kind of fence can be seen">
+					<Choice>###Iron fence</Choice>
+					<Choice>Wooden fence</Choice>
+					<Choice>Marble fence</Choice>
+					<Choice>Brick fence</Choice>
+				</Question>
+			</Sub>
+		</Boss>
+		<Boss prefix="e_3">
+			<Question ans="2" title="What are they doing">
+				<Choice>Lighting a candle</Choice>
+				<Choice>###Lighting a torch</Choice>
+				<Choice>Lighting a lamp</Choice>
+				<Choice>Lighting a match</Choice>
+			</Question>
+			<Question ans="3" title="What color is the torch hold by the man">
+				<Choice>Red</Choice>
+				<Choice>White</Choice>
+				<Choice>###Black</Choice>
+				<Choice>Blue</Choice>
+			</Question>
+			<Question ans="2" title="How many woman is holding the white torch">
+				<Choice>0</Choice>
+				<Choice>###1</Choice>
+				<Choice>2</Choice>
+				<Choice>3</Choice>
+			</Question>
+			<Sub file="e_3_1" part="e_3_1_r">
+				<Question ans="4" title="What color is the swimmer's hat">
+					<Choice>Red</Choice>
+					<Choice>Blue</Choice>
+					<Choice>Green</Choice>
+					<Choice>###White</Choice>
+				</Question>
+				<Question ans="1" title="How many swimmers are there">
+					<Choice>###1</Choice>
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_3_2" part="e_3_2_r">
+				<Question ans="1" title="What color is the paddle-handle">
+					<Choice>###Blue</Choice>
+					<Choice>Yellow</Choice>
+					<Choice>Red</Choice>
+					<Choice>Black</Choice>
+				</Question>
+				<Question ans="2" title="What color is life vest of the team members">
+					<Choice>White</Choice>
+					<Choice>###Red</Choice>
+					<Choice>Purple</Choice>
+					<Choice>Black</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_3_3" part="e_3_3_r">
+				<Question ans="1" title="What is the athlete in white wearing on her head">
+					<Choice>###Headband</Choice>
+					<Choice>Hat</Choice>
+					<Choice>Cap</Choice>
+					<Choice>Hairpin</Choice>
+				</Question>
+				<Question ans="4" title="What number is the athlete on the right">
+					<Choice>8</Choice>
+					<Choice>1</Choice>
+					<Choice>19</Choice>
+					<Choice>###25</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_3_4" part="e_3_4_r">
+				<Question ans="1" title="What number is the horse in front">
+					<Choice>###4</Choice>
+					<Choice>5</Choice>
+					<Choice>6</Choice>
+					<Choice>7</Choice>
+				</Question>
+				<Question ans="3" title="What color is the racer on horse number 1">
+					<Choice>Purple</Choice>
+					<Choice>White</Choice>
+					<Choice>###Red</Choice>
+					<Choice>Yellow</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_3_5" part="e_3_5_r">
+				<Question ans="2" title="What sport is it">
+					<Choice>Skiing</Choice>
+					<Choice>###Ice skating</Choice>
+					<Choice>X-sport</Choice>
+					<Choice>Gymnastics</Choice>
+				</Question>
+				<Question ans="2" title="What color is the woman's dress">
+					<Choice>Red</Choice>
+					<Choice>###Pink</Choice>
+					<Choice>Blue</Choice>
+					<Choice>Yellow</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_3_6" part="e_3_6_r">
+				<Question ans="4" title="How many athletes are there">
+					<Choice>6</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+					<Choice>###5</Choice>
+				</Question>
+				<Question ans="1" title="How many gymnastic loops are there">
+					<Choice>###1</Choice>
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+			</Sub>
+		</Boss>
+		<Boss prefix="e_4">
+			<Question ans="2" title="How many camels are there">
+				<Choice>2</Choice>
+				<Choice>###3</Choice>
+				<Choice>4</Choice>
+				<Choice>5</Choice>
+			</Question>
+			<Question ans="3" title="What color are the clouds">
+				<Choice>Black</Choice>
+				<Choice>White</Choice>
+				<Choice>###Purple</Choice>
+				<Choice>Yellow</Choice>
+			</Question>
+			<Question ans="4" title="What is the sphinx laying on">
+				<Choice>A pile of wood</Choice>
+				<Choice>The ground</Choice>
+				<Choice>The hill</Choice>
+				<Choice>###A pile of stone</Choice>
+			</Question>
+			<Sub file="e_4_1" part="e_4_1_r">
+				<Question ans="4" title="Where does the smoke come from">
+					<Choice>The yacht</Choice>
+					<Choice>The house</Choice>
+					<Choice>The port</Choice>
+					<Choice>###The lighthouse</Choice>
+				</Question>
+				<Question ans="4" title="What color is the yacht">
+					<Choice>Yellow</Choice>
+					<Choice>Green</Choice>
+					<Choice>Blue</Choice>
+					<Choice>###Red</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_4_2" part="e_4_2_r">
+				<Question ans="1" title="How many statues are there">
+					<Choice>###1</Choice>
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+				<Question ans="2" title="What color are the pillars on the upper deck">
+					<Choice>Grey</Choice>
+					<Choice>###Light Brown</Choice>
+					<Choice>White</Choice>
+					<Choice>Yellow</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_4_3" part="e_4_3_r">
+				<Question ans="1" title="How many yachts are there">
+					<Choice>###2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+					<Choice>5</Choice>
+				</Question>
+				<Question ans="4" title="What is in the statue's hand">
+					<Choice>Bow and arrows</Choice>
+					<Choice>A Spear</Choice>
+					<Choice>A rock ball</Choice>
+					<Choice>###A bowl of fire</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_4_4" part="e_4_4_r">
+				<Question ans="1" title="How many buildings are there">
+					<Choice>###1</Choice>
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+				<Question ans="3" title="How many statues are on the two entrance pillars">
+					<Choice>0</Choice>
+					<Choice>6</Choice>
+					<Choice>###2</Choice>
+					<Choice>4</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_4_5" part="e_4_5_r">
+				<Question ans="2" title="What color are the pillars">
+					<Choice>Grey</Choice>
+					<Choice>###White</Choice>
+					<Choice>Yellow</Choice>
+					<Choice>Red</Choice>
+				</Question>
+				<Question ans="2" title="How many bushes are there">
+					<Choice>4</Choice>
+					<Choice>###5</Choice>
+					<Choice>6</Choice>
+					<Choice>7</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_4_6" part="e_4_6_r">
+				<Question ans="3" title="How many goblets of fire are there">
+					<Choice>0</Choice>
+					<Choice>1</Choice>
+					<Choice>###2</Choice>
+					<Choice>3</Choice>
+				</Question>
+				<Question ans="1" title="What is the color of the statue">
+					<Choice>###Gold</Choice>
+					<Choice>White</Choice>
+					<Choice>Grey</Choice>
+					<Choice>Black</Choice>
+				</Question>
+			</Sub>
+		</Boss>
+		<Boss prefix="e_5">
+			<Question ans="2" title="How many guitarists are there">
+				<Choice>1</Choice>
+				<Choice>###2</Choice>
+				<Choice>3</Choice>
+				<Choice>4</Choice>
+			</Question>
+			<Question ans="3" title="How many performers are standing on the podiums near the audience">
+				<Choice>1</Choice>
+				<Choice>2</Choice>
+				<Choice>###3</Choice>
+				<Choice>4</Choice>
+			</Question>
+			<Question ans="4" title="What is the singer's shirt color">
+				<Choice>Black</Choice>
+				<Choice>Blue</Choice>
+				<Choice>Red</Choice>
+				<Choice>###White</Choice>
+			</Question>
+			<Sub file="e_5_1" part="e_5_1_r">
+				<Question ans="4" title="How many plates with noodle inside">
+					<Choice>0</Choice>
+					<Choice>1</Choice>
+					<Choice>2</Choice>
+					<Choice>###3</Choice>
+				</Question>
+				<Question ans="4" title="What clothes do the girls wear in common">
+					<Choice>Headband</Choice>
+					<Choice>Hairpin</Choice>
+					<Choice>Bow-tie</Choice>
+					<Choice>###Skirt</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_5_2" part="e_5_2_r">
+				<Question ans="1" title="What is the dominant color of the wall">
+					<Choice>###Purple</Choice>
+					<Choice>White</Choice>
+					<Choice>Black</Choice>
+					<Choice>Red</Choice>
+				</Question>
+				<Question ans="2" title="How many people with a hat">
+					<Choice>1</Choice>
+					<Choice>###2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_5_3" part="e_5_3_r">
+				<Question ans="1" title="What color is the woman's shirt">
+					<Choice>###Red</Choice>
+					<Choice>Blue</Choice>
+					<Choice>Yellow</Choice>
+					<Choice>White</Choice>
+				</Question>
+				<Question ans="1" title="How many glasses are there">
+					<Choice>###2</Choice>
+					<Choice>3</Choice>
+					<Choice>4</Choice>
+					<Choice>5</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_5_4" part="e_5_4_r">
+				<Question ans="1" title="What color is the man's costume">
+					<Choice>###Blue and White</Choice>
+					<Choice>Red and White</Choice>
+					<Choice>Red and Blue</Choice>
+					<Choice>White and Brown</Choice>
+				</Question>
+				<Question ans="3" title="What type of microphone are the singers using">
+					<Choice>Regular</Choice>
+					<Choice>Regular wireless</Choice>
+					<Choice>###Hand-free wireless</Choice>
+					<Choice>Headphone</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_5_5" part="e_5_5_r">
+				<Question ans="2" title="What instrument is the man playing">
+					<Choice>Violin</Choice>
+					<Choice>###Piano</Choice>
+					<Choice>Drum</Choice>
+					<Choice>Trumpet</Choice>
+				</Question>
+				<Question ans="2" title="What color is the pianist's wristband">
+					<Choice>Red</Choice>
+					<Choice>###Black</Choice>
+					<Choice>White</Choice>
+					<Choice>Blue</Choice>
+				</Question>
+			</Sub>
+			<Sub file="e_5_6" part="e_5_6_r">
+				<Question ans="3" title="How many standing performers">
+					<Choice>2</Choice>
+					<Choice>3</Choice>
+					<Choice>###4</Choice>
+					<Choice>5</Choice>
+				</Question>
+				<Question ans="1" title="Where are the violinists sitting">
+					<Choice>###On the stage</Choice>
+					<Choice>Next to the singers</Choice>
+					<Choice>Inside the bar</Choice>
+					<Choice>Off the stage</Choice>
+				</Question>
+			</Sub>
+		</Boss>
+	</Bosses>
+</PhotoCollection>
