@@ -29,12 +29,12 @@
 		</Triplet>
 		<Triplet>
 			<ID>a_4</ID>
-			<Location x="0.32" y="0.27" r="0.013">1</Location>
-			<Location x="0.19" y="0.25" r="0.013">2</Location>
-			<Location x="0.51" y="0.43" r="0.012">3</Location>
-			<Location x="0.61" y="0.24" r="0.014">4</Location>
-			<Location x="0.13" y="0.56" r="0.012">5</Location>
-			<Location x="0.30" y="0.85" r="0.012">6</Location>
+			<Location x="0.32" y="0.27" r="0.014">1</Location>
+			<Location x="0.19" y="0.25" r="0.014">2</Location>
+			<Location x="0.51" y="0.43" r="0.013">3</Location>
+			<Location x="0.61" y="0.24" r="0.015">4</Location>
+			<Location x="0.13" y="0.56" r="0.013">5</Location>
+			<Location x="0.30" y="0.85" r="0.013">6</Location>
 		</Triplet>
 		<Triplet>
 			<ID>a_5</ID>
@@ -50,9 +50,9 @@
 			<Location x="0.32" y="0.32" r="0.015">1</Location>
 			<Location x="0.14" y="0.24" r="0.015">2</Location>
 			<Location x="0.93" y="0.18" r="0.022">3</Location>
-			<Location x="0.72" y="0.43" r="0.012">4</Location>
-			<Location x="0.29" y="0.81" r="0.012">5</Location>
-			<Location x="0.22" y="0.64" r="0.012">6</Location>
+			<Location x="0.72" y="0.43" r="0.013">4</Location>
+			<Location x="0.29" y="0.81" r="0.013">5</Location>
+			<Location x="0.22" y="0.64" r="0.013">6</Location>
 		</Triplet>
 		<Triplet>
 			<ID>a_7</ID>
@@ -205,7 +205,7 @@
 			<Location x="0.21" y="0.40" r="0.013">1</Location>
 			<Location x="0.30" y="0.22" r="0.025">2</Location>
 			<Location x="0.79" y="0.15" r="0.013">3</Location>
-			<Location x="0.82" y="0.35" r="0.023">4</Location>
+			<Location x="0.56" y="0.43" r="0.023">4</Location>
 			<Location x="0.10" y="0.74" r="0.026">5</Location>
 			<Location x="0.26" y="0.70" r="0.024">6</Location>
 		</Symmetry>

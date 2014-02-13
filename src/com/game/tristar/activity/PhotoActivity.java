@@ -41,6 +41,10 @@ public class PhotoActivity extends Activity {
 	private AlertDialog tut;
 	private ImageView curTut;
 	
+	private boolean tutTrip = false;
+	private boolean tutSymm = false;
+	private boolean tutPart = false;
+	
     
     
     /*
@@ -68,8 +72,7 @@ public class PhotoActivity extends Activity {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        //	handleNextLevel();
-        	showTutorial();
+        	handleNextLevel();
         }
     }
     
@@ -107,11 +110,16 @@ public class PhotoActivity extends Activity {
             finish();
         }
         switch(stage%10){
-        case 1:
+        case 0:
             handleOneBoss();
             break;
         case 4:
             hidePartition();
+            if(stage==4 && !tutSymm){
+        		showTutorial(GlobalResource.SYMM_TUT_IMG);
+        		tutSymm = true;
+        		return;
+        	}
         case 9:
             ((LinearLayout)findViewById(R.id.sidebarLayout)).setVisibility(View.VISIBLE);
             handleOneSymmetry();
@@ -120,13 +128,23 @@ public class PhotoActivity extends Activity {
             handleOneFlipping();
             break;
         case 3:
+        	if(stage==3 && !tutPart){
+        		showTutorial(GlobalResource.PART_TUT_IMG);
+        		tutPart = true;
+        		return;
+        	}
         case 7:
             ((LinearLayout)findViewById(R.id.sidebarLayout)).setVisibility(View.INVISIBLE);
             handleOnePartition();
             break;
         case 8:
             hidePartition();
-        case 0:
+        case 1:
+        	if(stage==1 && !tutTrip){
+        		showTutorial(GlobalResource.TRIP_TUT_IMG);
+        		tutTrip = true;
+        		return;
+        	}
         case 2:
         case 6:
             ((LinearLayout)findViewById(R.id.sidebarLayout)).setVisibility(View.VISIBLE);
@@ -264,28 +282,28 @@ public class PhotoActivity extends Activity {
      * tutorial popup
      */
     
-    private void showTutorial(){
+    private void showTutorial(final int[] tutImgSrc){
+    	curTutImg = 0;
     	tutorial = new AlertDialog.Builder(this);
     	final View tutLayout = getLayoutInflater().inflate(R.layout.tutorial_toast, (ViewGroup)findViewById(R.id.tut_layout_id));
     	curTut = (ImageView)tutLayout.findViewById(R.id.tutorial_image);
-    	curTut.setImageResource(GlobalResource.TRIP_TUT_IMG[curTutImg]);
+    	curTut.setImageResource(tutImgSrc[curTutImg]);
     	tutorial.setTitle("Tutorial");
     	tutorial.setCancelable(false);
     	
     	tutorial.setView(tutLayout);
-    	tutorial.setNegativeButton("Previous", null);
     	tutorial.setPositiveButton("Next", null);
     	
     	tut = tutorial.create();
-        tut.getWindow().setLayout(curTut.getWidth()+10, curTut.getHeight()+10);
+        tut.getWindow().setLayout(curTut.getWidth(), curTut.getHeight());
         tut.show();
         tut.getButton(AlertDialog.BUTTON_POSITIVE).setOnClickListener(new View.OnClickListener() {
 
 			@Override
 			public void onClick(View v) {
 				curTutImg++;
-				if(curTutImg<GlobalResource.TRIP_TUT_IMG.length){
-                	curTut.setImageResource(GlobalResource.TRIP_TUT_IMG[curTutImg]);
+				if(curTutImg<tutImgSrc.length){
+                	curTut.setImageResource(tutImgSrc[curTutImg]);
                 	tutLayout.invalidate();
             	}else{
             		tut.dismiss();
@@ -294,20 +312,6 @@ public class PhotoActivity extends Activity {
 			}
         	
         });
-        tut.getButton(AlertDialog.BUTTON_NEGATIVE).setOnClickListener(new View.OnClickListener() {
-
-			@Override
-			public void onClick(View v) {
-				if(curTutImg>0){
-            		curTutImg--;
-                	curTut.setImageResource(GlobalResource.TRIP_TUT_IMG[curTutImg]);
-                	tutLayout.invalidate();
-            	}else tut.dismiss();
-			}
-        	
-        });
-    	
-        
     }
     
     

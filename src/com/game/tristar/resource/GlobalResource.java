@@ -29,11 +29,20 @@ public class GlobalResource {
     public static final int[] TRIP_TUT_IMG = {
         R.drawable.trip_tut_1,R.drawable.trip_tut_2,R.drawable.trip_tut_3,
         R.drawable.trip_tut_4,R.drawable.trip_tut_5,R.drawable.trip_tut_6,
-        R.drawable.trip_tut_7,R.drawable.trip_tut_8,R.drawable.trip_tut_9
+        R.drawable.trip_tut_7,R.drawable.trip_tut_8,R.drawable.trip_tut_9,
+        R.drawable.trip_tut_10
+    };
+    
+    public static final int[] SYMM_TUT_IMG = {
+        R.drawable.symm_tut_1,R.drawable.symm_tut_2,R.drawable.symm_tut_3,
+        R.drawable.symm_tut_4,R.drawable.symm_tut_5,R.drawable.symm_tut_6,
+        R.drawable.symm_tut_7,R.drawable.symm_tut_8,R.drawable.symm_tut_9,
+        R.drawable.symm_tut_10,R.drawable.symm_tut_11
     };
     
     public static final int[] PART_TUT_IMG = {
-        R.drawable.part_tut_1,R.drawable.part_tut_2,R.drawable.part_tut_3
+        R.drawable.part_tut_1,R.drawable.part_tut_2,R.drawable.part_tut_3,
+        R.drawable.part_tut_4
     };
     
     public static PhotoStorage AllPhotoDB;
